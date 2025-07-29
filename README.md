@@ -21,7 +21,7 @@ This repository contains an interactive Power BI dashboard visualizing key metri
 ## 📁 Files
 
 - `spotify_dashboard.pbix` — Power BI dashboard file 
-- `7e0cb6e8-3ed8-438d-a573-9e4ed79bc65c.png` — Preview image of the dashboard.
+- `Spotify_Dashboard.png` — Preview image of the dashboard.
 - `README.md` — Project description and usage guide.
 
 ---
