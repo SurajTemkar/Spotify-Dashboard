@@ -45,7 +45,7 @@ This repository contains an interactive Power BI dashboard visualizing key metri
 
 ## 📷 Dashboard Preview
 
-![Spotify Dashboard](./7e0cb6e8-3ed8-438d-a573-9e4ed79bc65c.png)
+![Spotify Dashboard](Spotify_Dashboard.png)
 
 ---
 
